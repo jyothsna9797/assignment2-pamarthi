@@ -84,3 +84,18 @@ Modes of transportation: Bus, Train, Metro
 #### Quote2:
 
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.  - *Steve Jobs*
+
+<hr>
+<h4> Code Snippet: </h4>
+
+> Make div clickable with jquery.
+
+Source: [Refer for StackOverFlow Article Link](https://stackoverflow.com/questions/5270599/make-div-clickable-with-jquery)
+
+```
+$(".myBox").click(function()  {
+	window.location =  $(this).find("a").attr("href");
+	return  false;
+});
+```
+Snippet Source: [Refer CSS tricks](https://css-tricks.com/snippets/jquery/make-entire-div-clickable/)
