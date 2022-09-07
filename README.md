@@ -8,35 +8,45 @@
 
 </p>
 
-<hr>
-<h1> Section about ordered list:</h1>
+
+ 
+***
+
+#### Section about ordered list and un-ordered list:
+
 <p> Closest Airport : Indira Gandhi International Airport <br> 
 Distance: 7.8Kms <br>
 Modes of transportation: Bus, Train, Metro
- 
-</p>
-<h4> Step by step directions for traveling to the museum from the airport Via Bus</h4>
-<ol>
-<li>From the Gate 2 in the airport get into the bus with the either of the numbers having 207 / 604 / 781.</li>
-<li>Get the ticket till Rail Museum which will cost around 30 rps.</li>
-<li>The journey will take up to 40 mins from the airport to railmuseum </li>
-<li> You will be reaching your stop next to the german embassy if travelling from  airport to Museum.</li>
-<li>Once you reached the Museum get the ticket to enter into the Museum and thats it.</li>
-</ol>
+ </p>
 
-<h4>Places to visit near by National Rail Museum: </h4>
-<ul> 
-<li> Rashtrapati Bhavan </li>
-<li> Dilli Haat INA </li>
-<li>Indian Gate </li>
-</ul>
+##### Step by step directions for traveling to the museum from the airport Via Bus:
+
+1. From the Gate 2 in the airport get into the bus with the either of the numbers having 207 / 604 / 781.
+2. Get the ticket till Rail Museum which will cost around 30 rps.
+3. The journey will take up to 40 mins from the airport to railmuseum.
+4. Bus stopes in between Airport gate 2 to National rail museum.
+	1. P.S Kamla Market
+	2. New Delhi Rail Station Gate 1
+	3. Vivekanand Marg
+	4. Sudan Embassy
+	5. German Embassy 
+5. You will be reaching your stop next to the german embassy if travelling from  airport to Museum.
+6. Once you reached the Museum get the ticket to enter into the Museum and thats it.
+
+
+#### Places to visit near by National Rail Museum:
+
+ * Rashtrapati Bhavan.
+ * Dilli Haat INA.
+ * Indian Gate.
 
 #### To Know more details about me [Click Here](https://github.com/jyothsna9797/assignment2-pamarthi/blob/main/AboutMe.md)
 
-<hr>
+
+***
 
 
-<h4> Creating table about cities:</h4>
+#### Creating table about cities:
 <p> This section describes about the cities/Places that would like to recommend to visit for my friends or others.</p>
 
 #### Table1: Created using HTML tags.
@@ -74,8 +84,9 @@ Modes of transportation: Bus, Train, Metro
 | Banglore          | Wonderla     | 11AM–6PM  |
 | Kerala | Silent Valley | 6:45AM-2:30PM |
 
-<hr>
-<h4>Pithy Quotes: </h4>
+***
+
+#### Pithy Quotes: 
 
 #### Quote1:
 
@@ -85,8 +96,9 @@ Modes of transportation: Bus, Train, Metro
 
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.  - *Steve Jobs*
 
-<hr>
-<h4> Code Snippet: </h4>
+***
+
+#### Code Snippet: 
 
 > Make div clickable with jquery.
 
