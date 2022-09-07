@@ -83,6 +83,7 @@ Modes of transportation: Bus, Train, Metro
 | Hyderabad         | Ramoji Film city        | 9AM–5:30PM  |
 | Banglore          | Wonderla     | 11AM–6PM  |
 | Kerala | Silent Valley | 6:45AM-2:30PM |
+| Delhi | Redfort | 9.30 AM - 4.30 PM.|
 
 ***
 
