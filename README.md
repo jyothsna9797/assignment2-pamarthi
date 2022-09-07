@@ -30,3 +30,5 @@ Modes of transportation: Bus, Train, Metro
 <li> Dilli Haat INA </li>
 <li>Indian Gate </li>
 </ul>
+
+#### To Know more details about me [Click Here](https://github.com/jyothsna9797/assignment2-pamarthi/blob/main/AboutMe.md)

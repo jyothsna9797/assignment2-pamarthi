@@ -3,3 +3,5 @@
 
 #### Added image of mine to the github repo:
 - Please find the image in the link mentioned here [Image Link](https://github.com/jyothsna9797)
+
+###### Note: Updated the image for the profile and also pointed the aboutme.md file link in README.md file.
