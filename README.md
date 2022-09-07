@@ -73,3 +73,14 @@ Modes of transportation: Bus, Train, Metro
 | Hyderabad         | Ramoji Film city        | 9AM–5:30PM  |
 | Banglore          | Wonderla     | 11AM–6PM  |
 | Kerala | Silent Valley | 6:45AM-2:30PM |
+
+<hr>
+<h4>Pithy Quotes: </h4>
+
+#### Quote1:
+
+> The way to get started is to quit talking and begin doing. - *Walt Disney*
+
+#### Quote2:
+
+> 1.  Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.  - *Steve Jobs*
