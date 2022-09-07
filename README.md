@@ -11,7 +11,7 @@
 <hr>
 
 <h1> Section about ordered list:</h1>
-<p> The closest airport near the  National Rail Museum Delhi will be **Indira Gandhi International Airport** which is nearly 7.8 Kms.
+<p> The closest airport near the  National Rail Museum Delhi will be ** Indira Gandhi International Airport ** which is nearly 7.8 Kms.
 </p>
 <h4> Step by step directions for traveling to the museum from the airport.</h4>
 <ol>
