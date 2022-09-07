@@ -38,6 +38,8 @@ Modes of transportation: Bus, Train, Metro
 
 <h4> Creating table about cities:</h4>
 <p> This section describes about the cities/Places that would like to recommend to visit for my friends or others.</p>
+
+#### Table1: Created using HTML tags.
 <table style="width:100%">
 <thead>
 <tr>
@@ -64,3 +66,10 @@ Modes of transportation: Bus, Train, Metro
 </table>
 </body>
 </html>
+
+#### Table2: This table is generated `pipes and hyphens:`
+| City Name   | Important Location to visit   | Time to visit     |
+| ------------- | ------------- | -------- |
+| Hyderabad         | Ramoji Film city        | 9AM–5:30PM  |
+| Banglore          | Wonderla     | 11AM–6PM  |
+| Kerala | Silent Valley | 6:45AM-2:30PM |
