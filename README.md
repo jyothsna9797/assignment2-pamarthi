@@ -23,3 +23,10 @@ Modes of transportation: Bus, Train, Metro
 <li> You will be reaching your stop next to the german embassy if travelling from  airport to Museum.</li>
 <li>Once you reached the Museum get the ticket to enter into the Museum and thats it.</li>
 </ol>
+
+<h4>Places to visit near by National Rail Museum: </h4>
+<ul> 
+<li> Rashtrapati Bhavan </li>
+<li> Dilli Haat INA </li>
+<li>Indian Gate </li>
+</ul>
