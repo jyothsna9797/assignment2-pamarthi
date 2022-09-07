@@ -32,3 +32,35 @@ Modes of transportation: Bus, Train, Metro
 </ul>
 
 #### To Know more details about me [Click Here](https://github.com/jyothsna9797/assignment2-pamarthi/blob/main/AboutMe.md)
+
+<hr>
+
+
+<h4> Creating table about cities:</h4>
+<p> This section describes about the cities/Places that would like to recommend to visit for my friends or others.</p>
+<table style="width:100%">
+<thead>
+<tr>
+<th> City Name </th>
+<th>Important Locations to visit</th>
+<th>Time to visit the Important Location </th>
+</tr>
+</thread>
+<tr>
+<td> Vijayawada </td>
+<td> Kanakadurga temple</td>
+<td>  4:00 AM to 10:00 PM </td>
+</tr>
+<tr>
+<td> Vishakapatnam </td>
+<td>  Kailasagiri</td>
+<td> 10:00 AM to 8:00 PM</td>
+</tr>
+<tr>
+<td> Rajhamundry</td>
+<td> Maredumilli</td>
+<td> 08:00 AM to 06:00 PM </td>
+</tr>
+</table>
+</body>
+</html>
